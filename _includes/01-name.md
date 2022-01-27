@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Sean Duling's header
+## By Sean Duling
+### Sean Duling LLC
