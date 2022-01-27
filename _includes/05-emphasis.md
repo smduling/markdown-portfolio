@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. **Past experience**
+  1. _Project Manager_
+  2. Analyst
+
+* *Education*
+  * University of Minnesota (BA)
+  * Syracuse Univeristy (MPA)
